@@ -1,1 +1,2 @@
-.gitignor
+.env
+node_modules/
